@@ -6,4 +6,6 @@ How it is better than string lib in c?
 3. It uses some allocate algos to reduce the chance to re-allocate memory
 4. Binary safety
 5. Provides a lots API to handle strings, easy to use and understand
+
+
  
